@@ -1,0 +1,36 @@
+********************
+*General Information
+********************
+服务器类型: Oracle
+连接名: itsyl
+连接类型: Basic
+主机名或 IP 地址: 192.168.123.192
+端口: 1521
+Service Name: ORCL
+用户名: itsyl
+保存密码: True
+
+********************
+*Advanced Information
+********************
+设置位置: C:\Users\ainsc\Documents\Navicat\Oracle\servers\itsyl
+角色: DEFAULT
+操作系统验证: False
+保持连接间隔 (秒): N/A
+自动连接: False
+
+********************
+*SSH Information
+********************
+使用 SSH 通道: False
+主机名或 IP 地址: 
+端口: 22
+用户名: 
+验证方法: 密码
+保存密码: False
+
+********************
+*Other Information
+********************
+服务器版本: 10.2.0.1.0
+客户端版本: 12.1.0.1.0
